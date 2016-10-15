@@ -1,0 +1,4 @@
+services:
+#    sensor.example:
+#        class: SensorBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
